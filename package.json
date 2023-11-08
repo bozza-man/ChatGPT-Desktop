@@ -27,7 +27,7 @@
     "electron-builder": "^23.6.0"
   },
   "dependencies": {
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^13.0.2",
     "markdown-it-sanitizer": "^0.4.3",
     "openai": "^3.2.1"
   }
